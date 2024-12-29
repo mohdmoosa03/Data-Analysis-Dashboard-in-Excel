@@ -2,7 +2,7 @@
 
 <img width="1433" alt="DashBoard Image" src="https://github.com/mohdmoosa03/Data-Analysis-Dashboard-in-Excel/blob/master/Bicycle%20Sales%20Analysis%20Dashboard/image.png">
 
-# **Ecommerce Sales Analysis Dashboard**
+# **Bicycle Sales Analysis Dashboard**
 
 The "Ecommerce Sales Analysis Dashboard" project entailed a comprehensive examination of sales and profit data within the e-commerce domain. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
 
