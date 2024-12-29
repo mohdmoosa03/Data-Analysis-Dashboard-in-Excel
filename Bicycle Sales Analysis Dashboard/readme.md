@@ -4,7 +4,7 @@
 
 # **Bicycle Sales Analysis Dashboard**
 
-The "Ecommerce Sales Analysis Dashboard" project entailed a comprehensive examination of sales and profit data within the e-commerce domain. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
+The Bicycle Sales Analysis Dashboard is an interactive and visually engaging tool designed to provide detailed insights into the performance of a bicycle business. Built using Microsoft Excel, this dashboard utilizes advanced data analysis and visualization techniques to showcase sales trends, profitability, and product performance. It empowers decision-makers with actionable insights to optimize operations and improve overall business performance.:
 
 - **Sales & Profit Analysis**: The project meticulously evaluated sales and profit metrics to provide a comprehensive overview of the financial performance. This analysis helped in understanding the revenue generation and profit margins within the e-commerce business.
 
